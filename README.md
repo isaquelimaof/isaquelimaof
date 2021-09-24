@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Isaque Lima
+
 - 🌱 Estudando Java 
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/isaquelimaof">
