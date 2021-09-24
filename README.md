@@ -1,6 +1,7 @@
 ## Olá! Eu sou Isaque Lima
 
-- 🌱 Estudando Java 
+- 🌱 Curso Eng. de Produção na faculdade Unilasalle.
+- 🌱 Atualmente Estudando Java.
 
 
 <div align="center">
