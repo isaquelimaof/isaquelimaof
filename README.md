@@ -9,8 +9,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="progjavaEstudos" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="progjavaEstudos" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="saquelimaof-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg">
   
 </div>
   
