@@ -1,4 +1,4 @@
-## Olá! Eu sou o Isaque Lima
+## Olá! Eu sou Isaque Lima
 
 - 🌱 Estudando Java 
 
