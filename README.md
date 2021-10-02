@@ -11,21 +11,17 @@
 </div>
   
   <p align="center">
-  
-  <img src="https://github.com/isaquelimaof/java-estudos/blob/master/pcAnimado.gif" width="300">
+  <img src="https://github.com/isaquelimaof/java-estudos/blob/master/GIF-Dados.gif" width="200"><img src="https://github.com/isaquelimaof/java-estudos/blob/master/code.gif" width="250"><img src="https://github.com/isaquelimaof/java-estudos/blob/master/GIF-Dados.gif" width="200">
   </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="isaquelimaof-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  
-  
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/isaquelimaof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<a href="https://www.linkedin.com/in/isaquelimaof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 
