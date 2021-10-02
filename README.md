@@ -10,8 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquelimaof&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <img src="https://github.com/isaquelimaof/java-estudos/blob/master/pcAnimado.gif" width="300">
+  <p align="center">
   
+  <img src="https://github.com/isaquelimaof/java-estudos/blob/master/pcAnimado.gif" width="300">
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="isaquelimaof-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
   
