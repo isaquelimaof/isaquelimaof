@@ -16,6 +16,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="isaquelimaof-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="isaquelimaof-Java" height="60" width="70" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
   
   ##
