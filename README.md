@@ -11,7 +11,7 @@
 </div>
   
   <p align="center">
-  <img src="https://github.com/isaquelimaof/java-estudos/blob/master/GIF-Dados.gif" width="200"><img src="https://github.com/isaquelimaof/java-estudos/blob/master/code.gif" width="250"><img src="https://github.com/isaquelimaof/java-estudos/blob/master/GIF-Dados.gif" width="200">
+  <img src="https://github.com/isaquelimaof/java-estudos/blob/main/GIF-Dados.gif" width="200"><img src="https://github.com/isaquelimaof/java-estudos/blob/main/code.gif" width="250"><img src="https://github.com/isaquelimaof/java-estudos/blob/main/GIF-Dados.gif" width="200">
   </div>
   
 <div style="display: inline_block"><br>
