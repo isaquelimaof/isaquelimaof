@@ -3,20 +3,12 @@
 - 🌱 Curso Eng. de Produção na faculdade Unilasalle.
 - 🌱 Atualmente migrando para área da tecnologia.
 - 🌱 Engenharia de Software
-
-
- <div align="center">
-  <a href="https://github.com/isaquelimaof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquelimaof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
   
   <p align="center">
     <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
     <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/code.gif?raw=true" width="250">
     <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
   </div>
-
   
   
 <div style="display: inline_block"><br>
