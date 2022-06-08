@@ -5,17 +5,20 @@
 - 🌱 Engenharia de Software
 
 
-<div align="center">
-  <a href="https://github.com/isaquelimaof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquelimaof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  https://github-readme-stats.vercel.app/api?username=isaquelimaof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   
-</div>
+
   
-  <p align="center">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/code.gif?raw=true" width="250">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
-  </div>
+  
+    ![logo](https://github.com/isaquelimaof/isaquelimaof/blob/master/imagens/GIF-Dados.gif) 
+    ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+    
+    <p align="center">
+<img src="https://github.com/isaquelimaof/isaquelimaof/blob/master/imagens/GIF-Dados.gif"/>
+</p>
+
+
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="isaquelimaof-Java" height="60" width="70"          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
