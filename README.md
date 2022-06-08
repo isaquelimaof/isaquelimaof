@@ -5,9 +5,9 @@
 - 🌱 Engenharia de Software
   
   <p align="center">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/code.gif?raw=true" width="250">
-    <img src="https://github.com/isaquelimaof/java-estudos/blob/main/imagens/GIF-Dados.gif?raw=true" width="200">
+  <img src="https://github.com/isaquelimaof/isaquelimaof/blob/master/imagens/7V7.gif" width="200">
+  <img src="https://github.com/isaquelimaof/isaquelimaof/blob/master/imagens/code.gif" width="200">
+  <img src="https://github.com/isaquelimaof/isaquelimaof/blob/master/imagens/GIF-Dados.gif" width="200">
   </div>
   
   
