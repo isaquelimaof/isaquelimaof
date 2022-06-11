@@ -1,8 +1,4 @@
 ## Olá! Eu sou Isaque Lima
-
-- 🌱 Curso Eng. de Produção na faculdade Unilasalle.
-- 🌱 Atualmente migrando para área da tecnologia.
-- 🌱 Engenharia de Software
   
   
 <div style="display: inline_block"><br>
