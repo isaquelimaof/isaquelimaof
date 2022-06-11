@@ -1,5 +1,9 @@
-## Olá! Eu sou Isaque Lima
+## Hello !
   
+<div  style="display: inline_block" align="center"><br>
+  <img align="center" alt="isaquelimaof-Java" width="480" height="284"  
+ src="https://media1.giphy.com/media/6sUCb6laWgfxnrrG4N/giphy.gif?cid=790b7611c92752547a7df38fb838e292bf8524ac32182ea9&rid=giphy.gif&ct=g" />
+</div>  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="isaquelimaof-Java" height="60" width="70"          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
