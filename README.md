@@ -1,7 +1,7 @@
 ## Hello !
   
 <div  style="display: inline_block" align="center"><br>
-  <img align="center" alt="isaquelimaof-Java" width="480" height="284"  
+  <img align="center" alt="isaquelimaof-Java" width="380" height="184"  
  src="https://media1.giphy.com/media/6sUCb6laWgfxnrrG4N/giphy.gif?cid=790b7611c92752547a7df38fb838e292bf8524ac32182ea9&rid=giphy.gif&ct=g" />
 </div>  
   
